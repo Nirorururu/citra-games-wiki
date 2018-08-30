@@ -1,0 +1,9 @@
+title = "Nintendogs + Cats Golden Retriever & New Friends"
+description = "Nintendogs + Cats is a 2011 pet simulation game developed by Nintendo EAD and published by Nintendo for the Nintendo 3DS video game console."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000031600"
+region = "eur"
+release_date = "2011-03-25"
