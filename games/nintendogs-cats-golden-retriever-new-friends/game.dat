@@ -1,9 +1,30 @@
-title = "Nintendogs + Cats Golden Retriever & New Friends"
-description = "Nintendogs + Cats is a 2011 pet simulation game developed by Nintendo EAD and published by Nintendo for the Nintendo 3DS video game console."
+title = "Nintendogs + Cats: Golden Retriever & New Friends"
+description = "Nintendogs + Cats: Golden Retriever & New Friends is a real-time pet simulation video game developed by Nintendo EAD and published by Nintendo. It is one of three Nintendogs + Cats games released simultaneously, the others being Nintendogs + Cats: French Bulldog & New Friends and Nintendogs + Cats: Toy Poodle & New Friends. In Asia, the Golden Retriever version is called Shiba Inu & New Friends."
 needs_system_files = true
 needs_shared_font = false
 
 [[releases]]
-title = "0004000000031600"
+title = "0004000000030C00"
 region = "eur"
 release_date = "2011-03-25"
+
+[[releases]]
+title = "0004000000030D00"
+region = "usa"
+release_date = "2011-03-27"
+
+[[releases]]
+title = "0004000000030B00"
+region = "jap"
+release_date = "2011-02-26"
+
+[[releases]]
+title = "0004000000090700"
+region = "twn"
+release_date = "2013-01-11"
+
+[[releases]]
+title = "0004000000030F00"
+region = "kor"
+release_date = "2012-10-18"
+
